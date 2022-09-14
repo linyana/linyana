@@ -1,4 +1,6 @@
-### Hi there 👋
+### 😆 主页浏览量
+
+![](https://count.getloli.com/get/@linyana.github.readme)
 
 <!--
 **linyana/linyana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
