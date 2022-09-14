@@ -1,4 +1,4 @@
-### 😆 主页浏览量
+### 😄 主页浏览量
 
 ![](https://count.getloli.com/get/@linyana.github.readme)
 
