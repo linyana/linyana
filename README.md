@@ -23,24 +23,25 @@
 <img src="https://img.shields.io/badge/WebStorm-软件开发-07c3f2?style=flat-square&logo=WebStorm&labelColor=ffffff&logoColor=000000"/>
 </p>
 
-<div style="display: flex;">
-  <div style="width: 50%;display: inline-block">
-    <h3 align="center">
-      📫 GitHub统计
-    </h3>
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=linyana&show_icons=true&theme=synthwave">
-    </p>
-  </div>
-  <div style="width: 50%;display: inline-block">
-    <h3 align="center">
-    ⚡ 最常用语言
-    </h3>
-    <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linyana&&hide=tsql">
-    </p>
-</div>
-  </div>
+
+  <h3 align="center">
+
+  📫 我的GitHub
+
+  
+  </h3>
+  <br>
+<table align="center">
+
+<tr> <td>💬 最常用语言</td>  <td>  ⚡ GitHub统计</td> </tr>
+<tr>
+  <td>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linyana&&hide=tsql" height="285px"> 
+    </td>  <td>
+ <img src="https://github-readme-stats.vercel.app/api?username=linyana&show_icons=true&theme=synthwave" height="285px"> 
+    </td> </tr>
+</table>
+
 
 
 
