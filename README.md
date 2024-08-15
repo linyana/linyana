@@ -38,13 +38,13 @@
 <tr> <td>💬 最常用语言</td>  <td>  ⚡ GitHub统计</td> </tr>
 <tr>
   <td>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linyana&&hide=tsql" height="285px"> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linyana&&hide=tsql&theme=prussian" height="285px"> 
     </td>  <td>
- <img src="https://github-readme-stats.vercel.app/api?username=linyana&show_icons=true&theme=synthwave" height="285px"> 
+ <img src="https://github-readme-stats.vercel.app/api?username=linyana&show_icons=true&theme=prussian" height="285px"> 
     </td> </tr>
 </table>
 
 <tr> <td>📈 Activity Graph</td></tr>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=linyana&theme=react-dark)](https://github.com/linyana/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=linyana&theme=nord)](https://github.com/linyana/github-readme-activity-graph)
 
