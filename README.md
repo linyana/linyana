@@ -3,13 +3,15 @@
 林衍
 </h1>
 
+<!--
 <h3 align="center">
 🧐 主页浏览量
 </h3>
 
 <p align="center">
-<img src="https://count.getloli.com/get/@linyana.github.readme">
+  <img src="https://count.getloli.com/get/@linyana.github.readme">
 </p>
+-->
 
 <h3 align="center">
 
@@ -42,20 +44,7 @@
     </td> </tr>
 </table>
 
+<tr> <td>📈 Activity Graph</td></tr>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=linyana&theme=react-dark)](https://github.com/linyana/github-readme-activity-graph)
 
-
-<!--
-**linyana/linyana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
