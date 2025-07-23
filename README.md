@@ -34,15 +34,24 @@
   </h3>
   <br>
 <table align="center">
-
-<tr> <td>💬 最常用语言</td>  <td>  ⚡ GitHub统计</td> </tr>
-<tr>
-  <td>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linyana&&hide=tsql&theme=prussian" height="285px"> 
-    </td>  <td>
- <img src="https://github-readme-stats.vercel.app/api?username=linyana&show_icons=true&theme=prussian" height="285px"> 
-    </td> </tr>
+  <tr>
+    <td align="left">
+      <a href="https://github.com/webVueBlog" target="_blank">
+        <img alt="常用开发语言" 
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=linyana&langs_count=8&layout=compact&theme=prussian&hide_border=true" 
+             width="100%" />
+      </a>
+    </td>
+    <td align="right">
+      <a href="https://github.com/webVueBlog" target="_blank">
+        <img alt="数据总览" 
+             src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=linyana&show_icons=true&count_private=true&theme=prussian&hide_border=true" 
+             width="100%" />
+      </a>
+    </td>
+  </tr>
 </table>
+<br />
 
 <tr> <td>📈 Activity Graph</td></tr>
 
