@@ -1,7 +1,10 @@
-
-<h1 align="center">
-林衍
-</h1>
+<h1 align="center">Hi 👋, I'm Rik</h1>
+<p align="center">
+  Full-stack developer | Passionate about building scalable web apps
+</p>
+<p align="center">
+  Always believe that something wonderful is about to happen ✨
+</p>
 
 <!--
 <h3 align="center">
@@ -13,43 +16,53 @@
 </p>
 -->
 
-<h3 align="center">
+---
 
-🌱 常用工具或软件
-
-</h3>
-
+### 🛠 Tech Stack
 <p align="center">
-<img src="https://img.shields.io/badge/VsCode-软件开发-007ACC?style=flat-square&logo=Visual%20Studio%20Code&labelColor=ffffff&logoColor=007ACC"/>
-<img src="https://img.shields.io/badge/IDEA-Java开发-fd6430?style=flat-square&logo=IntelliJ%20IDEA&labelColor=ffffff&logoColor=000000"/>
-<img src="https://img.shields.io/badge/WebStorm-软件开发-07c3f2?style=flat-square&logo=WebStorm&labelColor=ffffff&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
+---
 
-  <h3 align="center">
+### 🔭 Currently Working On
+- Full-stack SaaS projects
+- Open-source React components library
+- Automation tools for e-commerce integration
 
-  📫 我的GitHub
+---
 
-  
-  </h3>
-  <br>
+### 📫 How to reach me
+<p align="center">
+  <a href="mailto:1439713475@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 💻 My GitHub Stats
+
 <table align="center">
   <tr>
     <td align="left">
-        <img alt="常用开发语言" 
+        <img alt="Language" 
              src="https://github-readme-stats.vercel.app/api/top-langs/?username=linyana&langs_count=8&layout=compact&theme=prussian&hide_border=true" 
              width="100%" />
     </td>
     <td align="right">
-        <img alt="数据总览" 
+        <img alt="Data" 
              src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=linyana&show_icons=true&count_private=true&theme=prussian&hide_border=true" 
              width="100%" />
     </td>
   </tr>
 </table>
-<br />
-
-<tr> <td>📈 Activity Graph</td></tr>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=linyana&theme=nord)](https://github.com/linyana/github-readme-activity-graph)
 
+---
+
+### ⚡ Fun Fact
+I enjoy simplifying complex backend workflows into clean, reusable components, and I’m passionate about productivity tools and sleek UI design.
