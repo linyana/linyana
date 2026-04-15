@@ -1,68 +1,93 @@
-<h1 align="center">Hi 👋, I'm Rik</h1>
-<p align="center">
-  Full-stack developer | Passionate about building scalable web apps
-</p>
-<p align="center">
-  Always believe that something wonderful is about to happen ✨
-</p>
+<div align="center">
 
-<!--
-<h3 align="center">
-🧐 主页浏览量
-</h3>
+  # Hey there, I'm Rik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-<p align="center">
-  <img src="https://count.getloli.com/get/@linyana.github.readme">
-</p>
--->
+  <p>
+    <a href="https://github.com/linyana"><img
+  src="https://img.shields.io/badge/Main_GitHub-@linyana-181717?style=flat-square&logo=github" /></a>
+  </p>
 
----
+  **Full-stack Developer** | Building scalable web applications
 
-### 🛠 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+  *Always believe that something wonderful is about to happen* :sparkles:
 
----
+  ---
 
-### 🔭 Currently Working On
-- Full-stack SaaS projects
-- Open-source React components library
-- Automation tools for e-commerce integration
+  ## Tech Stack
 
----
-
-### 📫 How to reach me
-<p align="center">
-  <a href="mailto:1439713475@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-### 💻 My GitHub Stats
-
-<table align="center">
+  <table>
   <tr>
-    <td align="left">
-        <img alt="Language" 
-             src="https://github-readme-stats.vercel.app/api/top-langs/?username=linyana&langs_count=8&layout=compact&theme=prussian&hide_border=true" 
-             width="100%" />
-    </td>
-    <td align="right">
-        <img alt="Data" 
-             src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=linyana&show_icons=true&count_private=true&theme=prussian&hide_border=true" 
-             width="100%" />
-    </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+    <br>React
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+    <br>TypeScript
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+    <br>Node.js
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
+    <br>NestJS
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+    <br>PostgreSQL
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+    <br>Docker
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+    <br>Redis
+  </td>
+   <td align="center" width="96">
+    <img src="https://elysiajs.com/assets/elysia.svg" width="48" height="48" alt="Elysia" />
+    <br>Elysia
+  </td>
   </tr>
-</table>
+  </table>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=linyana&theme=nord)](https://github.com/linyana/github-readme-activity-graph)
+  ---
 
+  ## Currently
+
+  :telescope: Working on full-stack projects with **React + NestJS**
+
+  :seedling: Exploring **Cloud Native** & **DevOps** practices
+
+  :zap: Fun fact: I mass-produce side projects and mass-abandon them equally fast
+
+  :mailbox: Reach me at **rik.li@silksoftware.com**
+
+ ---
+
+## Trophy
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/linyana/linyana/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/linyana/linyana/output/github-snake.svg" />
+    <img alt="github contribution snake animation"
+  src="https://raw.githubusercontent.com/linyana/linyana/output/github-snake-dark.svg" />
+  </picture>
+
+---
+
+## Stats
+
+<img alt="Data" 
+ src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=linyana&show_icons=true&count_private=true&theme=prussian&hide_border=true" 
+ width="60%" />
+ 
 ---
 
 ### ⚡ Fun Fact
 I enjoy simplifying complex backend workflows into clean, reusable components, and I’m passionate about productivity tools and sleek UI design.
+
+</div>
