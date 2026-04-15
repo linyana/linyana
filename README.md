@@ -7,7 +7,10 @@
   src="https://img.shields.io/badge/Main_GitHub-@linyana-181717?style=flat-square&logo=github" /></a>
   </p>
 
-  **Full-stack Developer** | Building scalable web applications
+   **Full-stack Developer** | Building scalable web applications
+
+  Simplifying complex backend workflows into clean, reusable components.
+  Passionate about productivity tools and sleek UI design.
 
   *Always believe that something wonderful is about to happen* :sparkles:
 
@@ -85,9 +88,4 @@
  src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=linyana&show_icons=true&count_private=true&theme=prussian&hide_border=true" 
  width="60%" />
  
----
-
-### ⚡ Fun Fact
-I enjoy simplifying complex backend workflows into clean, reusable components, and I’m passionate about productivity tools and sleek UI design.
-
 </div>
